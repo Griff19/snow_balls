@@ -1,0 +1,7 @@
+{
+  "name": "snow_balls",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vkontakte/vk-connect": "latest"
+  }
+}
